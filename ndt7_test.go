@@ -8,10 +8,10 @@ import (
 	"testing"
 
 	"github.com/gorilla/websocket"
+	"github.com/justus237/locate/api/locate"
+	v2 "github.com/justus237/locate/api/v2"
+	"github.com/justus237/locate/locatetest"
 	"github.com/m-lab/go/testingx"
-	"github.com/m-lab/locate/api/locate"
-	v2 "github.com/m-lab/locate/api/v2"
-	"github.com/m-lab/locate/locatetest"
 	"github.com/m-lab/ndt-server/ndt7/ndt7test"
 	"github.com/m-lab/ndt7-client-go/internal/params"
 	"github.com/m-lab/ndt7-client-go/internal/websocketx"

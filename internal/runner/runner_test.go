@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/justus237/locate/api/locate"
 	"github.com/m-lab/go/memoryless"
 	"github.com/m-lab/go/testingx"
-	"github.com/m-lab/locate/api/locate"
 	"github.com/m-lab/ndt-server/ndt7/ndt7test"
 	"github.com/m-lab/ndt7-client-go"
 	"github.com/m-lab/ndt7-client-go/internal/emitter"

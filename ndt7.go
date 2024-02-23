@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/m-lab/locate/api/locate"
-	v2 "github.com/m-lab/locate/api/v2"
+	"github.com/justus237/locate/api/locate"
+	v2 "github.com/justus237/locate/api/v2"
 	"github.com/m-lab/ndt7-client-go/internal/download"
 	"github.com/m-lab/ndt7-client-go/internal/params"
 	"github.com/m-lab/ndt7-client-go/internal/upload"
