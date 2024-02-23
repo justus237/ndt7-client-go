@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/gorilla/websocket v1.5.0
 	//github.com/m-lab/locate v0.4.1
-	github.com/justus237/locate v0.4.2
+	github.com/justus237/locate v0.4.100
 	github.com/m-lab/go v0.1.71
 	github.com/m-lab/ndt-server v0.20.2
 	github.com/m-lab/tcp-info v1.5.3
