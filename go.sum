@@ -180,8 +180,8 @@ github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/X
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/justinas/alice v1.2.0 h1:+MHSA/vccVCF4Uq37S42jwlkvI2Xzl7zTPCN5BnZNVo=
 github.com/justinas/alice v1.2.0/go.mod h1:fN5HRH/reO/zrUflLfTN43t3vXvKzvZIENsNEe7i7qA=
-github.com/justus237/locate v0.4.100 h1:lYZnSk5YhGukBs8QQ9btBvsinkVQsecv4z5kxtcKObc=
-github.com/justus237/locate v0.4.100/go.mod h1:gD7mlAgNWTP3ltVy++ybGs7myiPEOKZ2N0O4pPjI/QI=
+github.com/justus237/locate v0.4.101 h1:FNi3J6wUb7/6jj4kxrFhHi7FpyQ2GqB+yWjQan29kHQ=
+github.com/justus237/locate v0.4.101/go.mod h1:gD7mlAgNWTP3ltVy++ybGs7myiPEOKZ2N0O4pPjI/QI=
 github.com/kabukky/httpscerts v0.0.0-20150320125433-617593d7dcb3 h1:Iy7Ifq2ysilWU4QlCx/97OoI4xT1IV7i8byT/EyIT/M=
 github.com/kabukky/httpscerts v0.0.0-20150320125433-617593d7dcb3/go.mod h1:BYpt4ufZiIGv2nXn4gMxnfKV306n3mWXgNu/d2TqdTU=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
